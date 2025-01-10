@@ -215,7 +215,6 @@ function inverterString(str) {
   return novaString;
 }
 
-// Exemplo de uso:
 const minhaString = "Hello, world!";
 const stringInvertida = inverterString(minhaString);
 console.log(stringInvertida);
